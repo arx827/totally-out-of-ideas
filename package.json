@@ -1,0 +1,24 @@
+{
+  "name": "vitepress-sql-zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --open",
+    "docs:build": "vitepress build docs",
+    "deploy": "sh deploy.sh"
+  },
+  "keywords": [
+    "SQL"
+  ],
+  "author": "Eason",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.57.1",
+    "vitepress": "^1.0.0-alpha.76"
+  },
+  "dependencies": {
+    "sass-loader": "^13.2.2",
+    "vue": "^3.3.4"
+  }
+}
