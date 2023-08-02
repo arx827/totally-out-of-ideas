@@ -5,9 +5,9 @@ hero:
   name: 完全沒有想法
   text: 讀書會
   # tagline: 
-  # image:
-  #   src: /10464007_R_m.webp
-  #   alt: VitePress
+  image:
+    src: /apple-touch-icon.png
+    alt: VitePress
   # actions:
   #   - theme: brand
   #     text: 開始瀏覽
@@ -18,10 +18,10 @@ hero:
 features:
   - title: 2022 讀書會
     details: 
-    link: /guide/2022/0514-SASS
-  # - title: 2023 讀書會
-  #   details: 
-  #   link: /guide/2022/0514
+    link: /2022/0514-SASS
+  - title: 2023 讀書會
+    details: 
+    link: /2023/0820-WebpackAndVueCli
   # - icon: ⚡️
   #   title: Vite, The DX that can't be beat
   #   details: Lorem ipsum...
