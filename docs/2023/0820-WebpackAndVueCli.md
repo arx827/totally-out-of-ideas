@@ -38,7 +38,7 @@ title: Webpack 與 VueCli
       設定 `Loader` 讀取和解析的規則。
 
     - #### Resolve：設定尋找模組的規則
-      `Resolve` 設定 `Webpack` 如何尋找模組所對應的檔案。設定別名路徑、
+      `Resolve` 設定 `Webpack` 如何尋找模組所對應的檔案。設定別名路徑。
 
     - #### Plugin：設定擴充外掛程式
       設定各種 `Plugin` 可以讓 `Webpack` 做任何與建置相關的事情。
